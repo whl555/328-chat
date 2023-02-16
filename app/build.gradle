@@ -54,4 +54,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 
     implementation project(path: ':flutter')
+    implementation 'com.githang:status-bar-compat:latest.integration'//快捷修改通知栏颜色
 }
